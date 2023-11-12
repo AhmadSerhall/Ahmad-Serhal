@@ -5,4 +5,4 @@ I'm Ahmad Serhal, a Computer Science graduate from Beirut, Lebanon, passionate a
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadSerhall&hide=contribs,prs)
 
-//![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadSerhall&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
